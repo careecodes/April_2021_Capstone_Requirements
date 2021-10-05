@@ -45,8 +45,7 @@ There will not be live presentations.
 # ⭐️⭐️ Demo Video Requirements ⭐️⭐️
 Present your project.
 Think of it is as a "pitch."
-Every group member will need to speak.
-It's recommended to write a "script" for each person to read.
+It's recommended to write a "script" to read.
 
 # ⭐️ Do and Do Not ⭐️
 
