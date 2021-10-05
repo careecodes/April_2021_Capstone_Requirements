@@ -1,4 +1,4 @@
-# April_2021_Capstone_Requirements
+# April 2021 Cohort Capstone Requirements
 Requirements for the Digital Crafts April Capstone Project
 
 Requirements
