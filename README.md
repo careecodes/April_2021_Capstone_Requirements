@@ -38,11 +38,8 @@ This should double as your README.md on Github. (see note below regarding a t
  (Links to an external site.)
 ).
 Your final project must be publicly available on Github, include the README file, be hosted publicly, and featured on your portfolio.
-Your demo must be recorded.
-We will present these videos on Demo Day.
-There will not be live presentations.
 
-# ⭐️⭐️ Demo Video Requirements ⭐️⭐️
+# ⭐️⭐️ Demo Video - OPTIONAL ⭐️⭐️
 Present your project.
 Think of it is as a "pitch."
 It's recommended to write a "script" to read.
