@@ -39,7 +39,7 @@ This should double as your README.md on Github. (see note below regarding a t
 ).
 Your final project must be publicly available on Github, include the README file, be hosted publicly, and featured on your portfolio.
 
-# ⭐️⭐️ Demo Video - OPTIONAL ⭐️⭐️
+# ⭐️⭐️ Demo Video - for portfolio requirements ⭐️⭐️
 Present your project.
 Think of it is as a "pitch."
 It's recommended to write a "script" to read.
